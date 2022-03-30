@@ -2,3 +2,4 @@ baseURL = 'https://bassettsj.github.io/blog-estiv/'
 languageCode = 'es'
 title = 'Apreiendo Español'
 theme = "ananke"
+defaultContentLanguage = 'es'
