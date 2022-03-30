@@ -1,4 +1,4 @@
-baseURL = 'https://bassettsj.github.io/blog-estiv/'
+baseURL = 'https://bassettsj.github.io/blog-estiv'
 languageCode = 'es'
 title = 'Apreiendo Español'
 theme = "ananke"
